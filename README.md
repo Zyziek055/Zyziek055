@@ -2,7 +2,7 @@
 ## 👋 About Me
 
 Economics student specializing in Computer Science and Econometrics.  
-Interested in Data Science and pretty much anything computer-related :)
+Interested in Data Science and pretty much anything computer-related :) Currently persueing an internship as a Data Engineer.
 
 ## 🖥️ My HomeLab
 
